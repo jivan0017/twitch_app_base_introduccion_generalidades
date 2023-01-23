@@ -5,8 +5,8 @@
     <div class="wrapper">
       <HelloWorld 
         msg="Práctica sencilla" 
-        contenido="Practicando con propiedades reactivas"
-        contenido2="contenido del atributo <<<<<<<"
+        contenido="Practicando con propiedades reactivas, este es el atributo contenido"
+        contenido2="contenido del atributo: contenido 2 <--"
       />
     </div>
   </header>
